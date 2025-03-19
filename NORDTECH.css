@@ -1,0 +1,22 @@
+
+form {
+    padding: 200px 300px 200px 300px;
+    font-weight: 200;
+    font-size: large;
+   margin-inline-end: 12%;
+   margin-inline-start: 12%;
+ background-size: 80%;
+ border-width: 50ch;
+}
+label {
+    color: white;
+    font-weight: 100;
+}
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-indent: 10%;
+    color: white;
+    font-weight: bolder;
+}
+
